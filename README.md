@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at my github
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me (by the moment i dont have social media)</h3>
 <p align="left">
 </p>
 
