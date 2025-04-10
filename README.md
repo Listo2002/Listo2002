@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Escudero</h1>
 <h3 align="center">Soy estudiante de DAM</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java, SQL, HTML, CSS, XML**
 
 - 👨‍💻 All of my projects are available at my github
 
